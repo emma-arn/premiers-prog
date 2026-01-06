@@ -1,0 +1,37 @@
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Dossiers à ignorer
+node_modules/
+dist/
+build/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Caches
+*.cache/
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outils de packaging
+build/
+dist/
+*.egg-info/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
